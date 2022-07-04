@@ -6,7 +6,7 @@ const serverUrl = process.env.REACT_APP_MORALIS_SERVER_URL;
 const appId= process.env.REACT_APP_MORALIS_APPLICATION_ID;
 
 // Contract to watch Here
-const contractAddress = "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB"; //BAYC
+const contractAddress = "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB"; //CrypoPunks
 
 //Calculate Whale Stats Here
 Array.prototype.getUnique = function(){
